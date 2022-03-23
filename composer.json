@@ -1,0 +1,14 @@
+{
+    "name": "mrd1rk/file_manager",
+    "description": "A simple file manager",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "test\\": "test/"
+        }
+    }
+}
